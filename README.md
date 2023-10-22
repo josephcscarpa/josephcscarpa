@@ -1,6 +1,9 @@
 
 <img style = "float: left; border-radius: 50%;" width = 200 src="headshot.png" />
 
+ <br> 
+
+ 
 # Joseph Scarpa
 
 ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white) ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
