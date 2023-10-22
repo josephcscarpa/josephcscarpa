@@ -12,7 +12,8 @@
 
 - Looking for entry levels roles in software engineering 👨🏼‍💻 and data science 📊. 
 - Currently building knowledge about web technologies like React ⚛ and Node.js ☕.
-- Information about my music can be found here.  
+- [Information about my music can be found here](#music-section).
+  
 
 **Official resume available upon request.** 
 
@@ -79,7 +80,7 @@ Durham, NC
 - Named Rookie of the Year (Spring 2022), RA of the Semester (Fall 2022) out of 200+ for superior performance.
 - Managed budgets for programming events for 60+ residents, responded to building and resident emergencies, and performed dorm operations such as health/safety inspections, fire drills, move-in/move-out, nightly rounds, and orientation.
 
-## Music
+## <a name="music-section"></a>Music
 
 ### Organ: 
 View recordings of my playing online!
