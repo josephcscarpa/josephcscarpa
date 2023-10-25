@@ -1,4 +1,4 @@
-
+<title>Joseph C. Scarpa</title>
 <img style = "border-radius: 50%;" width = 200 src="headshot.png" />
 
 # Joseph Scarpa
