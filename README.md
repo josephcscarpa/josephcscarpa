@@ -10,11 +10,10 @@
 
 **Current senior at Duke University studying computer science and music (organ performance). Knowledgeable about machine learning, data science, and databases systems.**
 
-- Looking for entry levels roles in software engineering 👨🏼‍💻 and data science 📊. 
+- Looking for entry levels roles in software engineering 👨🏼‍💻 and machinedata science 📊. 
 - Currently building knowledge about web technologies like React ⚛ and Node.js ☕.
 - [Information about my music can be found here](#music-section).
   
-
 **Official resume available upon request.** 
 
 ## Technical Skills
@@ -45,33 +44,38 @@
 
 
 ## Work Experience
+## Education
+**Duke University**  
+*August 2020 -- May 2024*  
+Bachelor of Science in Computer Science, Double Major in Music. GPA: 3.74  
+Durham, NC  
+- **Relevant Coursework:** Machine Learning (Graduate), Computer Vision (Graduate), Data Science Research (Graduate), Design and Analysis of Algorithms, Database Systems, Computer Systems, Data Structures
+
+## Experience
 
 ### Rudin Interpretability Lab, Undergraduate Research Assistant
 *January 2023 -- August 2023*  
 **Duke Computer Science Department**  
 Durham, NC  
-- Researched collaboratively in a team of 3 undergraduates and 2 graduate students supervised by [Professor Cynthia Rudin](https://users.cs.duke.edu/~cynthia/) working towards a paper demonstrating the performance of a novel interpretable machine learning algorithm, FasterRisk, on ICU/Hospital mortality prediction.
-- Designed **SQL** scripts to extract severity-of-illness scores from the eICU database, accounting for complex and messy data relationships across tables. 
-- Implemented a machine-learning pipeline using **Python** scripts and **Jupyter** notebooks for training and testing interpretable machine-learning models on massive EHR datasets like MIMIC-III and eICU.
+- Implemented a machine-learning pipeline in **Python** to preprocess largely uncleaned ICU data, do time-series-based feature engineering, concurrently execute and log hyperparameter tuning with the Slurm Workload Manager and Weights and Biases (WandB), and train/test machine learning models.
+- Wrote extraction scripts in **PostgreSQL** and **BigQuerySQL** to extract raw EHR data for the pipeline to preprocess and utilize. Conferred with researchers at MIT regarding design decisions.
+- Contributed to Professor Cynthia Rudin's Interpretability Lab’s ongoing research into using state-of-the-art interpretable machine learning models (FasterRisk, FastSparse, GOSDT) to predict patient mortality; wrote and edited paper sections (pending submission to data-science journals).
 
-### Undergraduate Teaching Assistant
+### Teaching Assistant: Database Systems and Data Science
 *January 2023 -- Present*  
 **Department of Computer Science, Duke University**  
 Durham, NC  
-- **Courses:** Introductory Data Science (Head UTA) and Database Systems.
-- Wrote and tested exam problems to assess students' knowledge of data science principles.
-- Developed and debugged autograders for homework and exams. 
-- Created course content to introduce students to data science/machine learning concepts.
-- Held office hours, assisted in lectures, and graded assignments weekly.
+- Employed the Otter Autograder library to build autograders for exams and homework which interface with the Gradescope grade management system.
+- Assisted in writing and testing exams to assess students' knowledge of data science concepts and best practices, such as linear/logistic regression, KNN, and relying on standard libraries (**numpy**, **Pandas**) for scaleable computations.
+- Held office hours, assisted in lectures by answering student questions, and graded weekly assignments/exams.
 
 ### Software Engineering Intern
 *June 2022 -- August 2022*  
 **Springboard SaaS**  
 New York, NY  
-- Realized user interfaces using **Twig**, **TailwindCSS**, and **JavaScript** from wireframes.
-- Contributed **PHP** and **PostgreSQL** code to the backend to develop a content management system.
-- Wrote documentation to allow future developers to extend the CMS.
-
+- Wrote **PHP** and **SQL** code for a bespoke content management system (CMS) for an internal information app.
+- Realized responsive user interfaces by translating designer mockups to code using **HTML**, **CSS**, **Bootstrap**, **JavaScript**, and **Twig**, ensuring seamless rendering across various devices and platforms and meeting aesthetic and functional specifications.
+- Authored comprehensive documentation outlining the structure, features, and extension points of the CMS, enabling other developers to build upon the existing codebase.
 
 ### Resident Assistant
 *August 2021 -- Present*  
