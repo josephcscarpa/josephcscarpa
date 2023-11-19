@@ -10,8 +10,8 @@
 
 **Current senior at Duke University studying computer science and music (organ performance). Knowledgeable about machine learning, data science, and databases systems.**
 
-- Looking for entry levels roles in software engineering 👨🏼‍💻 and machinedata science 📊. 
-- Currently building knowledge about web technologies like React ⚛ and Node.js ☕.
+- Looking for entry levels roles in software engineering 👨🏼‍💻 and machine learning/data science 📊. 
+- Currently building my knowledge about web technologies like React ⚛ and Node.js ☕.
 - [Information about my music can be found here](#music-section).
   
 **Official resume available upon request.** 
