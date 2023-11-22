@@ -47,7 +47,7 @@
 ## Education
 **Duke University**  
 *August 2020 -- May 2024*  
-Bachelor of Science in Computer Science, Double Major in Music. GPA: 3.74  
+Bachelor of Science in Computer Science, Double Major in Music.
 Durham, NC  
 - **Relevant Coursework:** Machine Learning (Graduate), Computer Vision (Graduate), Data Science Research (Graduate), Design and Analysis of Algorithms, Database Systems, Computer Systems, Data Structures
 
