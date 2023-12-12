@@ -14,7 +14,7 @@
 - Currently building my knowledge about web technologies like React ⚛ and Node.js ☕.
 - [Information about my music can be found here](#music-section).
   
-**Official resume available upon request.** 
+**Official résumé available upon request.** 
 
 ## Technical Skills
 
